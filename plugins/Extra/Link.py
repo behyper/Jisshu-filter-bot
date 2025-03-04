@@ -1,4 +1,4 @@
-# powered by Jisshu_bots and ZISHAN KHAN
+# powered by Kdrama Talkies and Its. Your Bro
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
